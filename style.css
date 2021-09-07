@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align:center;
 }
 
 .profile {
@@ -93,4 +94,10 @@ h2 {
 }
 .links:hover{
     background-color: blue;
+}
+a{
+    text-decoration: none;
+    }
+.article:hover{
+    color:purple;
 }
